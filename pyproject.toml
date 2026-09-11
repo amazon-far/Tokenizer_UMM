@@ -1,0 +1,42 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "tokenizer-umm"
+version = "1.0.0"
+description = "Studying Image Tokenizers as Visual Languages in Unified Multimodal Models"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "Apache-2.0" }
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: Apache Software License",
+]
+# NOTE: this file is the dependency spec for the `liquid` conda environment --
+# `scripts/setup_env.sh` builds it with `pip install -e .` + `pip install -e ".[train]"`.
+# `transformers>=4.51.0` is required: Qwen3 support first shipped in 4.51.0, so
+# earlier releases cannot load the checkpoints this repo trains at all.
+# `tokenizers` is intentionally unpinned -- transformers pins it itself
+# (>=0.21,<0.22 for 4.51.x), and pinning it here only creates a conflict.
+dependencies = [
+    "torch==2.1.0", "torchvision==0.16.0",
+    "transformers>=4.51.0", "sentencepiece==0.1.99", "shortuuid",
+    "accelerate==0.27.2", "peft==0.4.0", "bitsandbytes==0.41.0",
+    "pydantic<2,>=1", "markdown2[all]", "numpy==1.26.4", "scikit-learn==1.2.2",
+    "requests", "httpx==0.24.0", "uvicorn", "fastapi",
+    "einops==0.6.1", "einops-exts==0.0.4",
+]
+
+[project.optional-dependencies]
+train = ["deepspeed==0.13.1", "ninja" ]
+build = ["build", "twine"]
+
+# No importable package is installed: the training / evaluation / data-processing
+# code is run from the repository root (`from liquid.train...` resolves via the
+# current working directory), so this project ships dependencies only. Declaring
+# the empty list keeps that explicit -- otherwise adding an `__init__.py` under
+# `evaluation/` would silently start installing vendored third-party trees such
+# as `chameleon` as top-level packages.
+[tool.setuptools]
+packages = []

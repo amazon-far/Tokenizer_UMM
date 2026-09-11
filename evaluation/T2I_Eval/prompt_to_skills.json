@@ -1,0 +1,2512 @@
+{
+    "A baker pulling freshly baked bread out of an oven in a bakery.": [
+        "basic",
+        "attribute",
+        "scene",
+        "spatial relation",
+        "action relation"
+    ],
+    "A photographer capturing a fleeting moment in a vibrant city street.": [
+        "basic",
+        "attribute",
+        "scene",
+        "action relation"
+    ],
+    "A gardener tending to flowers in a greenhouse filled with sunlight.": [
+        "basic",
+        "attribute",
+        "scene",
+        "action relation"
+    ],
+    "A man shaping clay on a wheel in a cluttered workshop.": [
+        "basic",
+        "attribute",
+        "scene",
+        "spatial relation",
+        "action relation"
+    ],
+    "A crystal tree shimmering under a twilit, starry sky.": [
+        "basic",
+        "attribute",
+        "scene",
+        "action relation"
+    ],
+    "A dragon perched majestically on a craggy, smoke-wreathed mountain.": [
+        "basic",
+        "attribute",
+        "spatial relation",
+        "action relation"
+    ],
+    "A fairy dancing lightly atop a blooming, moonlit flower.": [
+        "basic",
+        "attribute",
+        "spatial relation",
+        "action relation"
+    ],
+    "A phoenix soaring above a city, aglow with golden flames.": [
+        "basic",
+        "attribute",
+        "spatial relation",
+        "action relation"
+    ],
+    "A ghostly ship sailing on a fog-shrouded, moonlit sea.": [
+        "basic",
+        "attribute",
+        "scene",
+        "action relation"
+    ],
+    "A sorcerer's hat casting shadows over a cluttered, enchanted desk.": [
+        "basic",
+        "attribute",
+        "spatial relation",
+        "action relation"
+    ],
+    "A pair of winged boots resting on a cloud in the sky.": [
+        "basic",
+        "attribute",
+        "scene",
+        "spatial relation"
+    ],
+    "A talking mirror whispering secrets in a dim chamber.": [
+        "basic",
+        "attribute",
+        "scene",
+        "action relation"
+    ],
+    "An ice castle standing proudly in the midst of a blizzard.": [
+        "basic",
+        "attribute",
+        "scene",
+        "spatial relation"
+    ],
+    "A potion bubbling brightly inside a cauldron in a shadowy nook.": [
+        "basic",
+        "attribute",
+        "scene",
+        "spatial relation"
+    ],
+    "A book with glowing runes floating beside a mystic crystal.": [
+        "basic",
+        "attribute",
+        "spatial relation",
+        "part relation"
+    ],
+    "A celestial comet racing across a star-studded, velvet sky.": [
+        "basic",
+        "attribute",
+        "scene",
+        "action relation"
+    ],
+    "A mermaid singing softly near a coral throne undersea.": [
+        "basic",
+        "attribute",
+        "spatial relation"
+    ],
+    "A goblin trading shiny trinkets in a hidden, mystical market.": [
+        "basic",
+        "attribute",
+        "scene",
+        "action relation"
+    ],
+    "A unicorn grazing peacefully in a radiant, rainbow-lit glade.": [
+        "basic",
+        "attribute",
+        "scene",
+        "action relation"
+    ],
+    "A magical quill writing tales by itself on an empty scroll.": [
+        "basic",
+        "attribute",
+        "spatial relation",
+        "action relation"
+    ],
+    "A lantern casting spectral light in a haunted, whispering forest.": [
+        "basic",
+        "attribute",
+        "scene",
+        "action relation"
+    ],
+    "A cloak of invisibility draped over a chair in a secretive chamber.": [
+        "basic",
+        "scene",
+        "spatial relation"
+    ],
+    "A genie's lamp emitting wisps of smoke on a sandy dune.": [
+        "basic",
+        "spatial relation",
+        "action relation"
+    ],
+    "An enchanted broom sweeping in a wizard's lofty chamber.": [
+        "basic",
+        "attribute",
+        "scene",
+        "action relation"
+    ],
+    "A cat pounces on a rolling ball.": [
+        "basic",
+        "attribute",
+        "spatial relation",
+        "action relation"
+    ],
+    "A young man tastes a simmering soup.": [
+        "basic",
+        "attribute",
+        "action relation"
+    ],
+    "A girl dabs paint on a mural.": [
+        "basic",
+        "spatial relation",
+        "action relation"
+    ],
+    "A dancer twirls in a spotlight.": [
+        "basic",
+        "attribute",
+        "scene"
+    ],
+    "A boy leaps over a hurdle.": [
+        "basic",
+        "spatial relation",
+        "action relation"
+    ],
+    "An old person snips a blooming rose.": [
+        "basic",
+        "attribute",
+        "action relation"
+    ],
+    "A man kneads dough on a table.": [
+        "basic",
+        "spatial relation",
+        "action relation"
+    ],
+    "A person types on an old typewriter.": [
+        "basic",
+        "attribute",
+        "action relation"
+    ],
+    "A dog tunes a violin.": [
+        "basic",
+        "action relation"
+    ],
+    "A woman examines a diamond.": [
+        "basic",
+        "action relation"
+    ],
+    "A small cat waves a wand.": [
+        "basic",
+        "attribute",
+        "action relation"
+    ],
+    "A boy spots a colorful bird.": [
+        "basic",
+        "attribute",
+        "action relation"
+    ],
+    "A sailor hoists a sail.": [
+        "basic",
+        "action relation"
+    ],
+    "A bird nocks an arrow.": [
+        "basic",
+        "action relation"
+    ],
+    "A cat basking in the sunlight by a window.": [
+        "basic",
+        "attribute",
+        "spatial relation"
+    ],
+    "A red bicycle parked against a brightly painted wall.": [
+        "basic",
+        "attribute",
+        "spatial relation",
+        "action relation"
+    ],
+    "A teapot steaming gently on a rustic kitchen table.": [
+        "basic",
+        "attribute",
+        "spatial relation"
+    ],
+    "Old boots resting on a muddy trail in the woods.": [
+        "basic",
+        "attribute",
+        "scene",
+        "action relation"
+    ],
+    "A yellow taxi waiting outside a modern glass building.": [
+        "basic",
+        "attribute",
+        "spatial relation",
+        "action relation"
+    ],
+    "An armchair with a knit blanket draped over it, next to a fireplace.": [
+        "basic",
+        "spatial relation",
+        "part relation"
+    ],
+    "A colorful mural of a bird adorning a city alley.": [
+        "basic",
+        "attribute",
+        "scene"
+    ],
+    "An old lantern swaying from a tree branch in a foggy forest.": [
+        "basic",
+        "attribute",
+        "scene",
+        "action relation"
+    ],
+    "A garden path lined with glowing stones under a twilight sky.": [
+        "basic",
+        "attribute",
+        "scene"
+    ],
+    "A grand fountain surrounded by historic buildings in a town square.": [
+        "basic",
+        "attribute",
+        "scene",
+        "spatial relation"
+    ],
+    "A cavern lit by shafts of light revealing hidden underground pools.": [
+        "basic",
+        "attribute",
+        "scene"
+    ],
+    "Boats laden with fruits floating on a river under a dual sunset.": [
+        "basic",
+        "attribute",
+        "scene"
+    ],
+    "Shelves carved from tree branches in a mystical library.": [
+        "basic",
+        "attribute",
+        "scene"
+    ],
+    "Ancient buildings juxtaposed with sleek, futuristic transports.": [
+        "basic",
+        "attribute",
+        "spatial relation"
+    ],
+    "A village covered in snow, illuminated by the northern lights.": [
+        "basic",
+        "attribute",
+        "scene"
+    ],
+    "An oasis mirage with an ice palace reflecting moonlight in the desert.": [
+        "basic",
+        "scene",
+        "action relation"
+    ],
+    "An asteroid spaceport bustling with aliens and spacecraft.": [
+        "basic",
+        "scene"
+    ],
+    "A small dog dozing in a patch of sunlight.": [
+        "basic",
+        "attribute",
+        "scene",
+        "action relation"
+    ],
+    "A single rose growing through a crack.": [
+        "basic",
+        "spatial relation",
+        "action relation"
+    ],
+    "A quaint bookshop.": [
+        "basic",
+        "attribute"
+    ],
+    "A lone lighthouse standing guard on a rocky coastline.": [
+        "basic",
+        "attribute",
+        "scene",
+        "action relation"
+    ],
+    "A butterfly perched on a wildflower in a meadow.": [
+        "basic",
+        "scene",
+        "spatial relation",
+        "action relation"
+    ],
+    "A pilot with aviator sunglasses.": [
+        "basic",
+        "part relation"
+    ],
+    "A baker with a cherry pin on a polka dot apron.": [
+        "basic",
+        "part relation"
+    ],
+    "A knight with a feather plume helmet by a stone tower.": [
+        "basic",
+        "spatial relation",
+        "part relation"
+    ],
+    "A scientist with a gear-shaped ring in a steampunk lab.": [
+        "basic",
+        "attribute",
+        "scene",
+        "part relation"
+    ],
+    "A swan with a silver anklet on a crystal lake.": [
+        "basic",
+        "attribute",
+        "scene",
+        "part relation"
+    ],
+    "A ninja with a dragon emblem in a bamboo grove.": [
+        "basic",
+        "scene",
+        "part relation"
+    ],
+    "A pirate with a skull earring on a treasure island.": [
+        "basic",
+        "scene",
+        "part relation"
+    ],
+    "A wizard with a starry cape under a full moon.": [
+        "basic",
+        "spatial relation",
+        "part relation"
+    ],
+    "A fairy with butterfly wings in a dewy meadow.": [
+        "basic",
+        "attribute",
+        "scene",
+        "part relation"
+    ],
+    "A cheerleader with a star badge at a sports field.": [
+        "basic",
+        "scene",
+        "part relation"
+    ],
+    "A samurai with a silk sash in a cherry blossom garden.": [
+        "basic",
+        "scene",
+        "part relation"
+    ],
+    "An astronaut with a flag patch drifting in space.": [
+        "basic",
+        "attribute",
+        "scene",
+        "part relation"
+    ],
+    "A playful kitten with a bell collar on the left, batting at a fluttering butterfly on the right.": [
+        "basic",
+        "attribute",
+        "spatial relation",
+        "action relation",
+        "part relation"
+    ],
+    "A cheerful dog with a frisbee in its mouth on the right, chasing a rolling ball on the left.": [
+        "basic",
+        "attribute",
+        "spatial relation",
+        "action relation",
+        "part relation"
+    ],
+    "An eagle with a silver band on its leg on the right, soaring past a towering pine tree on the left.": [
+        "basic",
+        "attribute",
+        "spatial relation",
+        "action relation",
+        "part relation"
+    ],
+    "A golden retriever sitting to the left of a blue picket fence.": [
+        "basic",
+        "attribute",
+        "spatial relation",
+        "action relation"
+    ],
+    "A small pond with a single swan gliding towards the left.": [
+        "basic",
+        "attribute",
+        "spatial relation",
+        "action relation"
+    ],
+    "A white sailboat drifting towards the left on a calm lake.": [
+        "basic",
+        "attribute",
+        "spatial relation",
+        "action relation"
+    ],
+    "A single red rose in a vase on the right side of a windowsill.": [
+        "basic",
+        "attribute",
+        "spatial relation"
+    ],
+    "A blue mailbox standing to the left of a winding garden path.": [
+        "basic",
+        "attribute",
+        "spatial relation"
+    ],
+    "A snowy owl perched to the right on a frost-covered branch.": [
+        "basic",
+        "attribute",
+        "spatial relation",
+        "action relation"
+    ],
+    "A vintage clock on a mantelpiece leaning slightly to the left.": [
+        "basic",
+        "attribute",
+        "spatial relation",
+        "action relation"
+    ],
+    "A cat sitting to the left of a bookshelf.": [
+        "basic",
+        "spatial relation",
+        "action relation"
+    ],
+    "A crystal-clear lake reflecting a mountainous landscape.": [
+        "basic",
+        "attribute",
+        "scene",
+        "action relation"
+    ],
+    "A row of colorful townhouses on a sunny street.": [
+        "basic",
+        "attribute",
+        "scene"
+    ],
+    "An ancient scroll unrolled on a wooden desk.": [
+        "basic",
+        "attribute",
+        "spatial relation",
+        "action relation"
+    ],
+    "A hammock strung between two palm trees on a beach.": [
+        "basic",
+        "scene",
+        "spatial relation"
+    ],
+    "A narrow alleyway illuminated by strings of fairy lights.": [
+        "basic",
+        "attribute",
+        "scene"
+    ],
+    "A star-filled sky over a desert campsite.": [
+        "basic",
+        "attribute",
+        "scene"
+    ],
+    "A red bicycle against a blue wall.": [
+        "basic",
+        "attribute",
+        "spatial relation"
+    ],
+    "Worn-out boots sit on a muddy path, the dense forest looming around them.": [
+        "basic",
+        "attribute",
+        "scene",
+        "spatial relation"
+    ],
+    "A bright yellow taxi parked in front, a tall glass building rising behind it amidst clouds.": [
+        "basic",
+        "attribute",
+        "scene",
+        "spatial relation",
+        "action relation"
+    ],
+    "A vibrant mural depicts a giant parrot, urban apartment buildings serving as its canvas.": [
+        "basic",
+        "attribute",
+        "spatial relation",
+        "action relation"
+    ],
+    "A whimsical garden features glowing flowers, luminescent stones lining the pathway beneath.": [
+        "basic",
+        "attribute",
+        "scene",
+        "spatial relation"
+    ],
+    "A cat lounging lazily on a sunny windowsill.": [
+        "basic",
+        "attribute",
+        "spatial relation",
+        "action relation"
+    ],
+    "A painter delicately brushing color onto a canvas in a bright, airy studio.": [
+        "basic",
+        "attribute",
+        "scene",
+        "action relation"
+    ],
+    "A chef fervently preparing sushi in a bustling kitchen.": [
+        "basic",
+        "attribute",
+        "scene",
+        "action relation"
+    ],
+    "A vintage car cruising down a coastal road at sunset.": [
+        "basic",
+        "attribute",
+        "scene",
+        "action relation"
+    ],
+    "A group of children playing hide-and-seek in a blooming garden.": [
+        "basic",
+        "attribute",
+        "scene",
+        "action relation"
+    ],
+    "A librarian shelving books in a quiet, expansive library.": [
+        "basic",
+        "attribute",
+        "scene",
+        "action relation"
+    ],
+    "An astronaut floating gracefully in the vastness of space outside a spacecraft.": [
+        "basic",
+        "attribute",
+        "scene",
+        "spatial relation",
+        "action relation"
+    ],
+    "A little girl tuning a guitar before a concert in a dimly lit venue.": [
+        "basic",
+        "attribute",
+        "scene",
+        "action relation"
+    ],
+    "A pencil holder with more pens than pencils.": [
+        "advanced",
+        "comparison"
+    ],
+    "A building with more doors than windows.": [
+        "advanced",
+        "comparison"
+    ],
+    "A couple where the taller one hugs the shorter from behind.": [
+        "advanced",
+        "comparison",
+        "differentiation"
+    ],
+    "The sky teems with more birds than the number of fish visible in the lake below.": [
+        "advanced",
+        "comparison"
+    ],
+    "On the party table, chocolate chip cookies outnumber the frosted cupcakes.": [
+        "advanced",
+        "comparison"
+    ],
+    "A table setting with fewer forks than bowls.": [
+        "advanced",
+        "comparison"
+    ],
+    "In a gym, there are two people, the one closer to the table is resting and the one further away from the table is lifting weights.": [
+        "advanced",
+        "counting",
+        "comparison",
+        "differentiation"
+    ],
+    "A larger person in yellow clothing and a smaller person in a different color.": [
+        "advanced",
+        "comparison",
+        "differentiation"
+    ],
+    "An animal with legs notably longer than a nearby person's.": [
+        "advanced",
+        "comparison"
+    ],
+    "A forest landscape with more birds in the sky than trees on the ground.": [
+        "advanced",
+        "comparison"
+    ],
+    "A workspace with more computers than computer mice.": [
+        "advanced",
+        "comparison"
+    ],
+    "An interior space with stools outnumbering the people.": [
+        "advanced",
+        "comparison"
+    ],
+    "A scene where there are more hats than stools.": [
+        "advanced",
+        "comparison"
+    ],
+    "A kitchen with a larger quantity of milk than juice.": [
+        "advanced",
+        "comparison"
+    ],
+    "In a peaceful pond, there are more fish in the water than frogs on the lotus leaves.": [
+        "advanced",
+        "comparison"
+    ],
+    "City view, the tower on the left is taller than the one on the right.": [
+        "advanced",
+        "comparison",
+        "differentiation"
+    ],
+    "The sun illuminates the garden, a shovel sticks in the soil, and gloves lay on the bench.": [
+        "basic",
+        "scene",
+        "spatial relation",
+        "action relation"
+    ],
+    "A fish glides through the air, while a bird plunges underwater.": [
+        "basic",
+        "scene",
+        "action relation"
+    ],
+    "A map unfolds widely on the wall and a compass points northward.": [
+        "basic",
+        "attribute",
+        "spatial relation",
+        "action relation"
+    ],
+    "Children are swinging on the swings while their parents watch from nearby, and a puppy frolics around them.": [
+        "basic",
+        "spatial relation",
+        "action relation"
+    ],
+    "Three flowers on the ground: one red, another yellow, and the third blue.": [
+        "advanced",
+        "counting",
+        "differentiation"
+    ],
+    "There are two red flowers on the table and a few yellow flowers under the table.": [
+        "advanced",
+        "differentiation"
+    ],
+    "A strange landscape, the ground on the left is covered with snow but the ground on the right is covered with green grass.": [
+        "advanced",
+        "differentiation"
+    ],
+    "A boat glides across the ocean, dolphins leaping beside it and seagulls soaring overhead.": [
+        "basic",
+        "spatial relation",
+        "action relation"
+    ],
+    "A painting hangs on the wall, a vase rests on the table, and sunlight streams through the window.": [
+        "basic",
+        "spatial relation",
+        "action relation"
+    ],
+    "A hat is perched on the table and a coat is draped on the chair.": [
+        "basic",
+        "spatial relation",
+        "action relation"
+    ],
+    "A garden scene, weeds growing on the left side of the garden while the right side is neatly manicured.": [
+        "advanced",
+        "differentiation"
+    ],
+    "In one bedroom the pillows were plump and the blankets neatly folded.": [
+        "basic",
+        "attribute",
+        "scene"
+    ],
+    "A guitar rests against a chair and a drum set stands nearby.": [
+        "basic",
+        "spatial relation",
+        "action relation"
+    ],
+    "In a snowy landscape, a fox dashes across the terrain, while nearby, a dog sits calmly.": [
+        "basic",
+        "attribute",
+        "scene",
+        "spatial relation",
+        "action relation"
+    ],
+    "The sun sets on the left while the moon rises on the right.": [
+        "basic",
+        "spatial relation",
+        "action relation"
+    ],
+    "Two lampshades flank a bed: the one on the left is tilted, while the one on the right stands straight.": [
+        "advanced",
+        "counting",
+        "differentiation"
+    ],
+    "A window consists of two panes of glass, the left one is broken but the right one is intact.": [
+        "advanced",
+        "counting",
+        "differentiation"
+    ],
+    "A piece of white paper on the grass, the left side of the paper is filled with writing while the right side is empty.": [
+        "advanced",
+        "differentiation"
+    ],
+    "A child studying at a table, the left side of the table is neat, but the right side is cluttered.": [
+        "advanced",
+        "differentiation"
+    ],
+    "At the center of the table,  four gleaming silver forks encircle a solitary porcelain plate.": [
+        "advanced",
+        "counting"
+    ],
+    "Two cats playing with a single ball.": [
+        "advanced",
+        "counting"
+    ],
+    "Five cylindrical mugs beside two rectangular napkins.": [
+        "advanced",
+        "counting"
+    ],
+    "Four flowers blooming, two beside a bench.": [
+        "advanced",
+        "counting"
+    ],
+    "Six oval stones and four triangular sails.": [
+        "advanced",
+        "counting"
+    ],
+    "One orange kite and four white seagulls flying above the beach.": [
+        "advanced",
+        "counting"
+    ],
+    "Five enthusiastic athletes and one tired coach.": [
+        "advanced",
+        "counting"
+    ],
+    "Two orange pumpkins and four flying black bats.": [
+        "advanced",
+        "counting"
+    ],
+    "One sun setting behind two tall buildings.": [
+        "advanced",
+        "counting"
+    ],
+    "Two orange pumpkins behind a group of five spooky Halloween candles.": [
+        "advanced",
+        "counting"
+    ],
+    "One content rabbit and six tired turtles.": [
+        "advanced",
+        "counting"
+    ],
+    "Eight wavy lines are under three polygonal signs.": [
+        "advanced",
+        "counting"
+    ],
+    "Three pink peonies and four white daisies in a garden.": [
+        "advanced",
+        "counting"
+    ],
+    "Two red balloons and three white clouds floating in the blue sky.": [
+        "advanced",
+        "counting"
+    ],
+    "Two grey wolves howling and three deer watching.": [
+        "advanced",
+        "counting"
+    ],
+    "Four disappointed customers and two content sellers.": [
+        "advanced",
+        "counting"
+    ],
+    "Four nervous mice and one confident cat.": [
+        "advanced",
+        "counting"
+    ],
+    "Three books are stacked on top of each other, with the red one at the bottom, the yellow one in the middle, and the blue one on top.": [
+        "advanced",
+        "counting",
+        "differentiation"
+    ],
+    "One bird singing, two flowers swaying.": [
+        "advanced",
+        "counting"
+    ],
+    "Five relaxed students but one overwhelmed teacher.": [
+        "advanced",
+        "counting"
+    ],
+    "One ecstatic painter in front of four confused muses.": [
+        "advanced",
+        "counting"
+    ],
+    "One person talks on the phone animatedly while the other sits sadly.": [
+        "advanced",
+        "differentiation"
+    ],
+    "An excited cat is on the left and an upset cat is on the right": [
+        "advanced",
+        "differentiation"
+    ],
+    "A scene with two blue balls amidst many yellow ones.": [
+        "advanced",
+        "counting",
+        "differentiation"
+    ],
+    "Cats playing on the roof, the cat on the left has curly hair, the cat on the right has straight hair": [
+        "advanced",
+        "differentiation"
+    ],
+    "A lone green banana stands out among a cluster of red bananas.": [
+        "advanced",
+        "differentiation"
+    ],
+    "A circular mirror is above a rectangular one.": [
+        "advanced",
+        "differentiation"
+    ],
+    "Some oranges on the left are moldy while an orange on the right is fresh.": [
+        "advanced",
+        "differentiation"
+    ],
+    "On display, a long, white dress contrasts sharply with a short, dark dress beside it.": [
+        "advanced",
+        "differentiation"
+    ],
+    "One person makes a humorous face as another watches.": [
+        "advanced",
+        "differentiation"
+    ],
+    "An old owl watches as a young owl tries its first flight.": [
+        "advanced",
+        "differentiation"
+    ],
+    "The girl with glasses is drawing, and the girl without glasses is singing.": [
+        "advanced",
+        "differentiation",
+        "negation"
+    ],
+    "The dog with a leash sits quietly, the other without a leash runs wildly.": [
+        "advanced",
+        "differentiation",
+        "negation"
+    ],
+    "The smiling child gives an apple to the frowning child.": [
+        "advanced",
+        "differentiation"
+    ],
+    "The brown dog chases the black dog around the tree.": [
+        "advanced",
+        "differentiation"
+    ],
+    "In the supermarket, a man with glasses pays a man without glasses.": [
+        "advanced",
+        "differentiation",
+        "negation"
+    ],
+    "There are three men, the one in the center is jumping, the others are standing.": [
+        "advanced",
+        "counting",
+        "differentiation"
+    ],
+    "A happy woman is on the right of a sad woman.": [
+        "advanced",
+        "differentiation"
+    ],
+    "The two lay in bed, the long-haired one asleep, the short-haired one still awake.": [
+        "advanced",
+        "counting",
+        "differentiation"
+    ],
+    "An injured man sitting on the ground with a man to his right who is helping him.": [
+        "advanced",
+        "differentiation"
+    ],
+    "The larger person wears a yellow hat and the smaller person does not.": [
+        "advanced",
+        "comparison",
+        "differentiation",
+        "negation"
+    ],
+    "Two people are running, the person with red legs is running quite slowly and the yellow legged one runs faster.": [
+        "advanced",
+        "counting",
+        "comparison",
+        "differentiation"
+    ],
+    "Adjacent houses stand side by side; the left one sports a chimney, while the right one has none.": [
+        "advanced",
+        "differentiation",
+        "negation"
+    ],
+    "A bird chirping melodiously on the right, with another listening intently on the left.": [
+        "advanced",
+        "differentiation"
+    ],
+    "A single snowflake falls gracefully among others swirling chaotically in the wind.": [
+        "advanced",
+        "differentiation"
+    ],
+    "An old artist holding a paintbrush faces a young artist wielding a pencil.": [
+        "advanced",
+        "differentiation"
+    ],
+    "Among a group of pastel-colored balloons, one stands out in vibrant red.": [
+        "advanced",
+        "differentiation"
+    ],
+    "A runner in blue shoes speeds past another in red shoes.": [
+        "advanced",
+        "differentiation"
+    ],
+    "A tailless, not black, cat is sitting.": [
+        "advanced",
+        "negation"
+    ],
+    "A smiling girl with short hair and no glasses.": [
+        "advanced",
+        "negation"
+    ],
+    "A bookshelf with no books, only a single red vase.": [
+        "advanced",
+        "negation"
+    ],
+    "A bird with no feathers on its head, perched alone.": [
+        "advanced",
+        "negation"
+    ],
+    "A car, not red, without its front wheels, parked.": [
+        "advanced",
+        "negation"
+    ],
+    "A yellow bird sings, a cat does not sing.": [
+        "advanced",
+        "negation"
+    ],
+    "A pair of glasses, but no lenses.": [
+        "advanced",
+        "negation"
+    ],
+    "A colorful skirt has an uncolorful hem.": [
+        "advanced",
+        "negation"
+    ],
+    "A plate with no food, only a fork and a knife.": [
+        "advanced",
+        "negation"
+    ],
+    "A book on the desk isn't open and a book below the desk is open.": [
+        "advanced",
+        "differentiation",
+        "negation"
+    ],
+    "A person without a hat pays a person with a hat.": [
+        "advanced",
+        "differentiation",
+        "negation"
+    ],
+    "The larger person wears blue and the smaller person does not.": [
+        "advanced",
+        "comparison",
+        "differentiation",
+        "negation"
+    ],
+    "six people wear white shirts and no people wear red shirts.": [
+        "advanced",
+        "counting",
+        "negation"
+    ],
+    "A cat without visible ears is riding.": [
+        "advanced",
+        "negation"
+    ],
+    "Four elephants, no giraffes.": [
+        "advanced",
+        "counting",
+        "negation"
+    ],
+    "two people; the one on the right has long hair and the one on the left doesn't.": [
+        "advanced",
+        "counting",
+        "differentiation",
+        "negation"
+    ],
+    "A person with short hair is crying while a person with long hair is not.": [
+        "advanced",
+        "differentiation",
+        "negation"
+    ],
+    "the pet on the right is blue and the one on the left is not.": [
+        "advanced",
+        "differentiation",
+        "negation"
+    ],
+    "a person without a hat pushes a person with a hat sitting in a box.": [
+        "advanced",
+        "differentiation",
+        "negation"
+    ],
+    "In a race between a tortoise and a hare, the tortoise takes a nap, but the hare does not.": [
+        "advanced",
+        "negation"
+    ],
+    "There are some apples on the table, no oranges.": [
+        "advanced",
+        "comparison",
+        "negation"
+    ],
+    "A garden where flowers grow out of pots without soil.": [
+        "advanced",
+        "negation"
+    ],
+    "A garden with flowers, but no bees to be seen.": [
+        "advanced",
+        "negation"
+    ],
+    "A bookshelf with no books, only picture frames.": [
+        "advanced",
+        "negation"
+    ],
+    "A car drives down the road without wheels, floating above the ground.": [
+        "advanced",
+        "negation"
+    ],
+    "The tallest tree in the forest has no leaves, while the smallest one is lush and green.": [
+        "advanced",
+        "comparison",
+        "negation"
+    ],
+    "A car moves forward but a bicycle doesn't.": [
+        "advanced",
+        "negation"
+    ],
+    "A vase with water, but no flowers to nourish.": [
+        "advanced",
+        "negation"
+    ],
+    "A snowman with a hat,  no scarf around its neck.": [
+        "advanced",
+        "negation"
+    ],
+    "A mountain with no snow, under a bright sky.": [
+        "advanced",
+        "negation"
+    ],
+    "A cat sleeps peacefully in a dog's bed, while the dog has no choice but to nap on the floor.": [
+        "advanced",
+        "negation"
+    ],
+    "A beach with no people, no shells.": [
+        "advanced",
+        "negation"
+    ],
+    "A tree with no leaves, standing in a field of green.": [
+        "advanced",
+        "negation"
+    ],
+    "A modern home office setup, a computer monitor on the desk showing a digital calendar with 'Meeting at 3 PM' highlighted.": [
+        "basic",
+        "attribute",
+        "scene",
+        "spatial relation",
+        "action relation"
+    ],
+    "A busy urban intersection, a traffic sign at the roadside displaying 'Speed Limit 30 mph'.": [
+        "basic",
+        "attribute",
+        "spatial relation"
+    ],
+    "A typewriter on a wooden desk, paper rolled in displaying the words 'Chapter 1' in classic font.": [
+        "basic",
+        "attribute",
+        "spatial relation"
+    ],
+    "A rustic bakery storefront, the window adorned with a 'Fresh Breads Daily' sign, loaves visible behind the glass.": [
+        "basic",
+        "attribute",
+        "scene",
+        "spatial relation"
+    ],
+    "A serene beach scene at sunset with 'Paradise Awaits' written in the sand, the ocean gently lapping at the letters.": [
+        "basic",
+        "scene",
+        "action relation"
+    ],
+    "A bustling city street, a neon 'Open 24 Hours' sign glowing above a small diner.": [
+        "basic",
+        "attribute",
+        "scene",
+        "spatial relation"
+    ],
+    "A snowy mountain peak with a wooden signpost reading 'Summit Trail' against a clear blue sky.": [
+        "basic",
+        "attribute",
+        "scene"
+    ],
+    "A garden gate with 'Welcome Friends' painted on a hanging wooden plaque, surrounded by blooming flowers.": [
+        "basic",
+        "attribute",
+        "spatial relation"
+    ],
+    "An elegant wedding venue, a 'Just Married' banner draped across the back of a vintage car.": [
+        "basic",
+        "attribute",
+        "scene"
+    ],
+    "'Book Nook' carved on a small library door, lantern-lit beside.": [
+        "basic",
+        "attribute",
+        "spatial relation"
+    ],
+    "A 'No Parking' sign on a busy street.": [
+        "basic",
+        "attribute",
+        "scene"
+    ],
+    "A 'Veggie Patch' sign staked in a garden, lush greens around.": [
+        "basic",
+        "attribute",
+        "scene"
+    ],
+    "'Tea Time' painted on a quaint cafe sign.": [
+        "basic",
+        "spatial relation"
+    ],
+    "'Zen Garden' etched into a stone at a peaceful retreat.": [
+        "basic",
+        "scene",
+        "spatial relation"
+    ],
+    "'Eco Market' on a banner above a green lifestyle fair.": [
+        "basic",
+        "attribute",
+        "spatial relation"
+    ],
+    "'Art Center' is spray-painted on the wall of the City Gallery.": [
+        "basic",
+        "attribute",
+        "scene"
+    ],
+    "'Jazz Night' flashing on a neon sign at the entrance to the Music Lounge.": [
+        "basic",
+        "spatial relation"
+    ],
+    "A sign in park says 'Bike Lane.'": [
+        "basic",
+        "attribute"
+    ],
+    "A mystical forest clearing, illuminated by 'Moonlit Path' glowing runes hovering above the ground, guiding wanderers at night.": [
+        "basic",
+        "attribute",
+        "scene",
+        "spatial relation",
+        "action relation"
+    ],
+    "An ancient library hidden beneath the earth, 'Secrets of the Ages' inscribed on the archway, books floating around as if by magic.": [
+        "basic",
+        "attribute",
+        "spatial relation"
+    ],
+    "In a mysterious swamp, the flowers are taller than the trees.": [
+        "advanced",
+        "comparison"
+    ],
+    "A small dog with wings, wearing a bell around its neck that is bigger than itself.": [
+        "advanced",
+        "comparison"
+    ],
+    "A gigantic dog that is taller than the tree next to it.": [
+        "advanced",
+        "comparison"
+    ],
+    "A magical flower is taller than the house next to it.": [
+        "advanced",
+        "comparison"
+    ],
+    "A green pumpkin is smiling happily, a red pumpkin is sitting sadly.": [
+        "advanced",
+        "differentiation"
+    ],
+    "In a mysterious forest, the leaves of a green tree shimmer with silvery glow, contrasting the dim leaves of a nearby red tree.": [
+        "advanced",
+        "differentiation"
+    ],
+    "In a magnificent castle, a red dragon sits and a green dragon flies.": [
+        "advanced",
+        "differentiation"
+    ],
+    "A magician holds two books; the left one open, the right one closed.": [
+        "advanced",
+        "counting",
+        "differentiation"
+    ],
+    "A mystical forest at twilight, illuminated by three floating orbs, with one unicorn drinking from a clear stream.": [
+        "advanced",
+        "counting"
+    ],
+    "One ancient scroll unfurled inside a cavern, lit by two large crystals emitting a soft glow.": [
+        "advanced",
+        "counting"
+    ],
+    "One pirate ship sailing through space, crewed by five robots.": [
+        "advanced",
+        "counting"
+    ],
+    "A glowing ancient tree with five lanterns and surrounded by fireflies.": [
+        "advanced",
+        "counting"
+    ],
+    "Three floating islands above one  waterfall in a valley.": [
+        "advanced",
+        "counting"
+    ],
+    "One phoenix soaring above a mountain, its wings shedding three golden feathers.": [
+        "advanced",
+        "counting"
+    ],
+    "A table laden with apples and bananas, where all the fruits are green.": [
+        "advanced",
+        "universal"
+    ],
+    "In a modern laboratory, all the computer screens are turned on.": [
+        "advanced",
+        "universal"
+    ],
+    "A landscape where every tree is in full bloom, with petals covering the entirety of the ground.": [
+        "advanced",
+        "universal"
+    ],
+    "Inside a library where each book spine displays a unique, intricate pattern.": [
+        "advanced",
+        "universal"
+    ],
+    "An aquarium where every tank is home to a multitude of colorful fish, swimming in harmony.": [
+        "advanced",
+        "universal"
+    ],
+    "In a square, several children are playing, each wearing a red T-shirt.": [
+        "advanced",
+        "universal"
+    ],
+    "A garden where every flower is in full bloom, showcasing a rainbow of colors.": [
+        "advanced",
+        "universal"
+    ],
+    "A bustling kitchen where every chef is preparing a dish.": [
+        "advanced",
+        "universal"
+    ],
+    "On the grass, all the children are lying down, laughing joyfully.": [
+        "advanced",
+        "universal"
+    ],
+    "A classroom where every student's desk is covered with creative projects and experiments.": [
+        "advanced",
+        "universal"
+    ],
+    "In an enchanted forest, every tree is joyfully dancing.": [
+        "advanced",
+        "universal"
+    ],
+    "Little fairies are flying in the sky, each with pink butterfly wings.": [
+        "advanced",
+        "universal"
+    ],
+    "An old-fashioned barber shop, where every chair is occupied by a customer under a barber's cape.": [
+        "advanced",
+        "universal"
+    ],
+    "A group of people are gathered at a party, all sitting around a dining table.": [
+        "advanced",
+        "universal"
+    ],
+    "Two chairs in the room, both with books on them.": [
+        "advanced",
+        "universal"
+    ],
+    "A traditional potter's workshop, where every shelf holds rows of terracotta pots, each imprinted with intricate designs.": [
+        "advanced",
+        "universal"
+    ],
+    "A bakery where every shelf is filled with a variety of bread and pastries.": [
+        "advanced",
+        "universal"
+    ],
+    "A spotted dog, a cat and a bird on a table.": [
+        "basic",
+        "attribute",
+        "spatial relation"
+    ],
+    "A dog, a cat and a chicken on a table.": [
+        "basic",
+        "spatial relation"
+    ],
+    "A young man with a green bat and a blue ball.": [
+        "basic",
+        "attribute"
+    ],
+    "A young man with a blue bat and a green ball.": [
+        "basic",
+        "attribute"
+    ],
+    "parent pointing at a child.": [
+        "basic",
+        "spatial relation",
+        "action relation"
+    ],
+    "A child pointing at parent.": [
+        "basic",
+        "spatial relation",
+        "action relation"
+    ],
+    "A young lady wearing a T-shirt puts her hand on a puppy's head.": [
+        "basic",
+        "attribute",
+        "spatial relation",
+        "action relation",
+        "part relation"
+    ],
+    "A young lady wearing a T-shirt puts her hand on a puppy's paw.": [
+        "basic",
+        "attribute",
+        "spatial relation",
+        "action relation",
+        "part relation"
+    ],
+    "A young woman wearing a red T-shirt.": [
+        "basic",
+        "attribute",
+        "part relation"
+    ],
+    "A young woman in a red long-sleeved dress.": [
+        "basic",
+        "attribute",
+        "part relation"
+    ],
+    "A cat chasing a dog.": [
+        "basic",
+        "action relation"
+    ],
+    "A dog chasing a cat.": [
+        "basic",
+        "action relation"
+    ],
+    "A group of children playing in the garden.": [
+        "basic",
+        "scene",
+        "action relation"
+    ],
+    "A group of children playing on the beach.": [
+        "basic",
+        "scene",
+        "action relation"
+    ],
+    "A woman wearing a T-shirt and gloves.": [
+        "basic",
+        "part relation"
+    ],
+    "A woman in a long-sleeved dress with a ring.": [
+        "basic",
+        "part relation"
+    ],
+    "A spotted dog, a cat and a bird on a round table.": [
+        "basic",
+        "attribute",
+        "spatial relation"
+    ],
+    "A dog, a cat and a bird on a chair.": [
+        "basic",
+        "spatial relation"
+    ],
+    "A boy and a dog standing in the desert.": [
+        "basic",
+        "scene",
+        "action relation"
+    ],
+    "A boy and a dog standing in the beach.": [
+        "basic",
+        "scene",
+        "action relation"
+    ],
+    "A man is hugging a box full of flowers on the floor.": [
+        "basic",
+        "attribute",
+        "scene",
+        "action relation"
+    ],
+    "A man is pushing a box full of flowers on the floor.": [
+        "basic",
+        "attribute",
+        "scene",
+        "action relation"
+    ],
+    "A young man is holding a blue bat and a green ball.": [
+        "basic",
+        "attribute",
+        "action relation"
+    ],
+    "One cat is sleeping on the table and the other is playing under the table.": [
+        "advanced",
+        "differentiation"
+    ],
+    "One cat is sleeping on the table and the other one is awake under the table.": [
+        "advanced",
+        "differentiation"
+    ],
+    "There is a watering can and a flowerpot on the table, the watering can is bigger than the flowerpot.": [
+        "advanced",
+        "comparison"
+    ],
+    "A cute dog without a collar.": [
+        "advanced",
+        "negation"
+    ],
+    "A cat is not black and its tail isn't visible.": [
+        "advanced",
+        "negation"
+    ],
+    "In the bedroom, there are three chairs with a book on each of them.": [
+        "advanced",
+        "counting",
+        "negation"
+    ],
+    "there are four chairs in the bedroom.": [
+        "advanced",
+        "counting"
+    ],
+    "The chairs in the bedroom are all white.": [
+        "advanced",
+        "universal"
+    ],
+    "A woman with red lipstick and a polka dot dress.": [
+        "basic",
+        "attribute",
+        "part relation"
+    ],
+    "An artist in a paint-splattered apron holding a palette.": [
+        "basic",
+        "action relation",
+        "part relation"
+    ],
+    "A man in a lab coat examining a beaker of colorful liquid.": [
+        "basic",
+        "attribute",
+        "spatial relation",
+        "action relation",
+        "part relation"
+    ],
+    "A girl with pigtails holding a giant sunflower.": [
+        "basic",
+        "attribute",
+        "action relation"
+    ],
+    "A skateboarder performing a trick in an urban skate park.": [
+        "basic",
+        "attribute",
+        "scene",
+        "action relation"
+    ],
+    "A fisherman casting a line at sunrise by a tranquil lake.": [
+        "basic",
+        "attribute",
+        "scene",
+        "action relation"
+    ],
+    "A pilot in aviator sunglasses stepping into a small plane.": [
+        "basic",
+        "attribute",
+        "action relation",
+        "part relation"
+    ],
+    "A young librarian is shelving books in a cozy library corner.": [
+        "basic",
+        "attribute",
+        "scene",
+        "action relation"
+    ],
+    "A farmer in overalls tending to a field of corn.": [
+        "basic",
+        "scene",
+        "action relation",
+        "part relation"
+    ],
+    "A child blowing bubbles in a field of daisies.": [
+        "basic",
+        "scene",
+        "action relation"
+    ],
+    "A surfer riding a large wave at sunset.": [
+        "basic",
+        "attribute",
+        "scene",
+        "action relation"
+    ],
+    "A hiker reaching the summit of a mountain with arms raised.": [
+        "basic",
+        "action relation"
+    ],
+    "A dancer in a flowing dress spinning in a spotlight.": [
+        "basic",
+        "attribute",
+        "scene",
+        "action relation",
+        "part relation"
+    ],
+    "A sculptor chiseling a piece of marble.": [
+        "basic",
+        "action relation"
+    ],
+    "A barista creating latte art in a cozy cafe.": [
+        "basic",
+        "attribute",
+        "scene",
+        "action relation"
+    ],
+    "A cyclist racing down a winding mountain path.": [
+        "basic",
+        "attribute",
+        "spatial relation",
+        "action relation"
+    ],
+    "A gardener pruning roses in a vibrant garden.": [
+        "basic",
+        "attribute",
+        "scene",
+        "action relation"
+    ],
+    "Two joggers running along a misty riverbank at dawn.": [
+        "basic",
+        "attribute",
+        "scene",
+        "action relation"
+    ],
+    "A violinist playing in a candlelit room.": [
+        "basic",
+        "attribute",
+        "scene",
+        "action relation"
+    ],
+    "A mechanic working under the hood of a classic car.": [
+        "basic",
+        "attribute",
+        "spatial relation",
+        "action relation",
+        "part relation"
+    ],
+    "A nurse comforting a patient in a hospital room.": [
+        "basic",
+        "scene",
+        "action relation"
+    ],
+    "A teacher standing in front of a world map in a classroom.": [
+        "basic",
+        "scene",
+        "spatial relation",
+        "action relation"
+    ],
+    "A child hunting for treasure with a metal detector on the beach.": [
+        "basic",
+        "scene",
+        "action relation"
+    ],
+    "A beekeeper tending to hives in a field of lavender.": [
+        "basic",
+        "scene",
+        "action relation"
+    ],
+    "A photographer capturing a butterfly on a wildflower.": [
+        "basic",
+        "spatial relation",
+        "action relation"
+    ],
+    "A jogger and their dog runningon the beach.": [
+        "basic",
+        "scene",
+        "action relation"
+    ],
+    "A magician pulling a rabbit out of a hat.": [
+        "basic",
+        "spatial relation",
+        "action relation"
+    ],
+    "A detective examining clues with a magnifying glass.": [
+        "basic",
+        "action relation",
+        "part relation"
+    ],
+    "A bride throwing her bouquet in a garden wedding.": [
+        "basic",
+        "scene",
+        "action relation"
+    ],
+    "A street performer juggling fire torches at night.": [
+        "basic",
+        "action relation"
+    ],
+    "A child making a sandcastle on a beach in a cloudy day.": [
+        "basic",
+        "scene",
+        "action relation"
+    ],
+    "A mountain biker leaping over a log on a forest trail.": [
+        "basic",
+        "scene",
+        "spatial relation",
+        "action relation"
+    ],
+    "A monk meditating beside a tranquil mountain stream.": [
+        "basic",
+        "attribute",
+        "scene",
+        "action relation"
+    ],
+    "A florist arranging a bouquet of colorful flowers.": [
+        "basic",
+        "attribute",
+        "action relation"
+    ],
+    "A saxophonist playing a soulful tune in a jazz club.": [
+        "basic",
+        "attribute",
+        "scene",
+        "action relation"
+    ],
+    "A gymnast performing a routine on the balance beam.": [
+        "basic",
+        "spatial relation",
+        "action relation"
+    ],
+    "A vampire lurking in the shadows of an old castle.": [
+        "basic",
+        "attribute",
+        "scene",
+        "spatial relation",
+        "action relation"
+    ],
+    "A wizard casting a spell with a wand in a mystical forest.": [
+        "basic",
+        "scene",
+        "action relation",
+        "part relation"
+    ],
+    "A ghost hunter investigating an abandoned mansion.": [
+        "basic",
+        "attribute",
+        "scene",
+        "action relation"
+    ],
+    "A mermaid basking on a rock by the moonlit sea.": [
+        "basic",
+        "attribute",
+        "spatial relation",
+        "action relation"
+    ],
+    "A knight in shining armor jousting at a medieval fair.": [
+        "basic",
+        "attribute",
+        "scene",
+        "action relation",
+        "part relation"
+    ],
+    "A robot dancing in a futuristic cityscape.": [
+        "basic",
+        "scene",
+        "action relation"
+    ],
+    "An astronaut planting a flag on a distant planet.": [
+        "basic",
+        "spatial relation",
+        "action relation"
+    ],
+    "Kids race their bikes down the hill as their friends cheer from the sidelines, and a kite flutters in the breeze above them.": [
+        "basic",
+        "attribute",
+        "spatial relation",
+        "action relation"
+    ],
+    "A sailboat drifts lazily along the river, with swans paddling gently beside it and willows weeping at its banks.": [
+        "basic",
+        "attribute",
+        "scene",
+        "spatial relation",
+        "action relation"
+    ],
+    "Sunglasses rest atop a magazine, and a beach towel is spread out on the sand.": [
+        "basic",
+        "scene",
+        "spatial relation",
+        "action relation"
+    ],
+    "A wilderness scene, wildflowers blooming on the right while a dense forest stands to the left.": [
+        "basic",
+        "attribute",
+        "scene",
+        "spatial relation"
+    ],
+    "In the study, a desk lamp casts a warm glow over an open journal and a fountain pen.": [
+        "basic",
+        "attribute",
+        "scene",
+        "spatial relation",
+        "action relation"
+    ],
+    "Bookends hold a row of novels in place: one end features a sculpture of a cat, the other a dog.": [
+        "basic",
+        "action relation"
+    ],
+    "A bridge arches over the river, with lanterns lit on one side and the other in darkness.": [
+        "basic",
+        "attribute",
+        "spatial relation",
+        "action relation"
+    ],
+    "A notebook lies open in the grass, with sketches on the left page and blank space on the right.": [
+        "advanced",
+        "differentiation"
+    ],
+    "On a busy desk, a lamp sheds light on a cluttered area filled with papers, while the other half remains organized.": [
+        "advanced",
+        "differentiation"
+    ],
+    "In the park, a statue stands in the middle, surrounded by blooming flowers and people enjoying a sunny day.": [
+        "basic",
+        "attribute",
+        "scene",
+        "spatial relation",
+        "action relation"
+    ],
+    "Tea steams in a cup, next to a closed diary with a pen resting on its cover.": [
+        "basic",
+        "attribute",
+        "spatial relation",
+        "part relation"
+    ],
+    "A balloon drifts gently up into the blue sky, with excited children watching from the ground.": [
+        "basic",
+        "attribute",
+        "spatial relation",
+        "action relation"
+    ],
+    "Inside the camp, a fire crackles, casting shadows on the tent walls, with backpacks and maps spread out.": [
+        "basic",
+        "attribute",
+        "scene",
+        "spatial relation",
+        "action relation"
+    ],
+    "There are two men in the living room, the taller one to the left of the shorter one.": [
+        "advanced",
+        "counting",
+        "comparison",
+        "differentiation"
+    ],
+    "In the garden there is a pack of dogs playing, the biggest one is red and the others are white.": [
+        "advanced",
+        "comparison",
+        "differentiation"
+    ],
+    "Two birds are chasing each other in the air, the one flying higher has a long tail and the other bird has a short tail.": [
+        "advanced",
+        "counting",
+        "comparison",
+        "differentiation"
+    ],
+    "In the classroom there are two boys standing together, the boy in the red jumper is taller than the boy in the white t-shirt.": [
+        "advanced",
+        "counting",
+        "comparison",
+        "differentiation"
+    ],
+    "There are two shoes on the grass, the one without laces looks newer than the one with laces.": [
+        "advanced",
+        "counting",
+        "differentiation",
+        "negation"
+    ],
+    "At the beach, three seashells lie close together: the largest has a spiraled pattern, the medium one is smooth and white, and the smallest has stripes.": [
+        "advanced",
+        "counting",
+        "comparison",
+        "differentiation"
+    ],
+    "Two kites flying high in the sky, the dragon-shaped one flies higher and is more colorful than the geometric-patterned one.": [
+        "advanced",
+        "counting",
+        "comparison",
+        "differentiation"
+    ],
+    "On the bookshelf, the picture frame on the left, containing a black and white photograph, appears older than the colorful painting on the right.": [
+        "advanced",
+        "comparison",
+        "differentiation"
+    ],
+    "On the road, two cars drive parallel: the faster one is a sleek sports model, while the slower one is a large, family SUV.": [
+        "advanced",
+        "counting",
+        "comparison",
+        "differentiation"
+    ],
+    "In the pond, two ducks swim near each other: the larger one has a bright green head, while the smaller one is all brown.": [
+        "advanced",
+        "counting",
+        "comparison",
+        "differentiation"
+    ],
+    "Among the two cups on the desk, the taller one holds more coffee than the shorter, which is half-empty.": [
+        "advanced",
+        "counting",
+        "comparison",
+        "differentiation"
+    ],
+    "In the park, the older tree is taller and has more branches than the younger sapling planted beside it.": [
+        "advanced",
+        "counting",
+        "comparison",
+        "differentiation"
+    ],
+    "A red book lies open with pages fluttering in the wind, another blue one remains closed and still.": [
+        "advanced",
+        "differentiation"
+    ],
+    "Two children laugh joyfully, the bigger one holding a balloon, the other clutching a toy.": [
+        "advanced",
+        "counting",
+        "comparison",
+        "differentiation"
+    ],
+    "Two birds soar high above the clouds, while another glides low over the water.": [
+        "advanced",
+        "counting",
+        "differentiation"
+    ],
+    "A cyclist wearing glasses speeds down the hill with ease, another one without glasses climbs up slowly and steadily.": [
+        "advanced",
+        "differentiation",
+        "negation"
+    ],
+    "A tree laden with ripe oranges stands in front of a tree with green, unripe fruit.": [
+        "advanced",
+        "differentiation"
+    ],
+    "One circular window shines brightly with light, another rectangular one is dark.": [
+        "advanced",
+        "differentiation"
+    ],
+    "Two cats sit at the window, the blue one intently watching the rain, the red one curled up asleep.": [
+        "advanced",
+        "counting",
+        "differentiation"
+    ],
+    "Two birds perch on a branch, the happy one chirping loudly, the sad one listening silently.": [
+        "advanced",
+        "counting",
+        "differentiation"
+    ],
+    "One sports car zooms around the corner with speed, while another standard car navigates the turn slowly and carefully.": [
+        "advanced",
+        "differentiation"
+    ],
+    "A short sunflower stands tall and faces the sun, while another tall one bends towards the ground.": [
+        "advanced",
+        "differentiation"
+    ],
+    "One person in white jogs with a steady pace, one person in red sprints with all their might.": [
+        "advanced",
+        "differentiation"
+    ],
+    "One squirrel gathers nuts quickly on the ground, another lazily stretches on a branch.": [
+        "advanced",
+        "differentiation"
+    ],
+    "A butterfly with bright wings flits from flower to flower, another rests on a leaf, wings folded.": [
+        "advanced",
+        "differentiation"
+    ],
+    "A puppy on the right chases its tail in circles, while another one on the left lies quietly, watching.": [
+        "advanced",
+        "differentiation"
+    ],
+    "A silver spoon lies to the left of a golden fork on a wooden table.": [
+        "basic",
+        "attribute",
+        "spatial relation"
+    ],
+    "A black cat sits on a window sill, while a white cat lies beneath the sill in the sunlight.": [
+        "advanced",
+        "differentiation"
+    ],
+    "A red book on a shelf above a blue book in a cozy reading nook.": [
+        "advanced",
+        "differentiation"
+    ],
+    "A big green apple next to a small red apple on a kitchen counter.": [
+        "advanced",
+        "differentiation"
+    ],
+    "A tall cactus in a terracotta pot next to a short succulent in a ceramic bowl.": [
+        "basic",
+        "attribute",
+        "spatial relation"
+    ],
+    "A yellow school bus in front of a red fire engine at a community event.": [
+        "basic",
+        "attribute",
+        "scene",
+        "spatial relation"
+    ],
+    "A blue bicycle leaning against a red brick wall, with a green bicycle parked beside it.": [
+        "advanced",
+        "differentiation"
+    ],
+    "A brown oak tree with lush leaves next to a birch tree with peeling bark in a forest.": [
+        "advanced",
+        "differentiation"
+    ],
+    "A fluffy white cloud above a darker storm cloud at sunset.": [
+        "advanced",
+        "differentiation"
+    ],
+    "A small pond with a black swan on the left and a white swan on the right.": [
+        "advanced",
+        "differentiation"
+    ],
+    "A striped beach umbrella in the sand with a solid blue umbrella behind it.": [
+        "advanced",
+        "differentiation"
+    ],
+    "A large pizza with pepperoni on the left half and mushrooms on the right half.": [
+        "advanced",
+        "differentiation"
+    ],
+    "A red rose in full bloom next to a pink rosebud in a garden.": [
+        "advanced",
+        "differentiation"
+    ],
+    "A vintage analog clock hangs on the wall above a modern digital clock that sits on a desk.": [
+        "advanced",
+        "differentiation"
+    ],
+    "A large teddy bear wearing a bow tie next to a small teddy bear wearing a party hat.": [
+        "advanced",
+        "differentiation"
+    ],
+    "An orange tabby cat lounges on a sunny windowsill, with a grey tabby stretching on the floor below.": [
+        "advanced",
+        "differentiation"
+    ],
+    "A leather-bound journal atop an oak desk, beside a stack of vintage paperbacks.": [
+        "advanced",
+        "differentiation"
+    ],
+    "A pair of yellow rubber boots standing at the doorstep, with a pair of green gardening gloves draped over them.": [
+        "advanced",
+        "counting",
+        "differentiation"
+    ],
+    "A chocolate cupcake with vanilla frosting on a plate, beside a vanilla cupcake with chocolate frosting.": [
+        "advanced",
+        "differentiation"
+    ],
+    "A rustic wooden bench under a sprawling oak, with a modern metal chair facing it across a stone path.": [
+        "advanced",
+        "differentiation"
+    ],
+    "A steaming cup of coffee on a bookshelf, above a row of antique tea cups.": [
+        "advanced",
+        "differentiation"
+    ],
+    "A plush velvet armchair in the corner of a library, with a sleek leather sofa along the opposite wall.": [
+        "basic",
+        "attribute",
+        "scene",
+        "spatial relation"
+    ],
+    "In the cafe, there's a steaming cup of coffee and a freshly baked croissant on every table.": [
+        "advanced",
+        "universal"
+    ],
+    "A serene yoga studio with several yoga mats, each with a person seated in deep meditation.": [
+        "advanced",
+        "universal"
+    ],
+    "A snowy forest glistens with delicate ice crystals adorning every branch.": [
+        "advanced",
+        "universal"
+    ],
+    "An antique bookshop with aisles filled with books.": [
+        "advanced",
+        "universal"
+    ],
+    "A rooftop garden with a row of planters, each filled with herbs and flowers.": [
+        "advanced",
+        "universal"
+    ],
+    "A tree shadow on every car in the lot.": [
+        "advanced",
+        "universal"
+    ],
+    "Orange juice and toast on every breakfast table.": [
+        "advanced",
+        "universal"
+    ],
+    "At the party, a pineapple is flanked by beers on each side.": [
+        "advanced",
+        "universal"
+    ],
+    "Near every parked pickup truck, there's a horse standing by.": [
+        "advanced",
+        "universal"
+    ],
+    "Leaves falling on every car in the autumn.": [
+        "advanced",
+        "universal"
+    ],
+    "At a birthday party, all the balloons are red.": [
+        "advanced",
+        "universal"
+    ],
+    "A group of children are playing in the garden and all the children are not wearing shoes.": [
+        "advanced",
+        "universal"
+    ],
+    "Several cups on a round table and all the cups are incomplete.": [
+        "advanced",
+        "universal"
+    ],
+    "Every child in the classroom has a smile on their face.": [
+        "advanced",
+        "universal"
+    ],
+    "Basking in the sunshine, all the cats are peacefully sleeping.": [
+        "advanced",
+        "universal"
+    ],
+    "Every tree in the forest is covered in snow, creating a serene winter landscape.": [
+        "advanced",
+        "universal"
+    ],
+    "In the park, every bench is occupied by people enjoying their books.": [
+        "advanced",
+        "universal"
+    ],
+    "On the farm, each animal is settling down for the night.": [
+        "advanced",
+        "universal"
+    ],
+    "Every tree in the forest is green, except for one that is red.": [
+        "advanced",
+        "counting",
+        "universal"
+    ],
+    "In a room, all the chairs are occupied except one.": [
+        "advanced",
+        "counting",
+        "universal"
+    ],
+    "All the books on the shelf are closed, except for one that lies open.": [
+        "advanced",
+        "counting",
+        "universal"
+    ],
+    "Among all the cars in the parking lot, each one is parked neatly except for one that is askew.": [
+        "advanced",
+        "counting",
+        "universal"
+    ],
+    "In a field of flowers, every bloom is yellow, save for one that is blue.": [
+        "advanced",
+        "counting",
+        "universal"
+    ],
+    "In a line of dominoes, each one stands upright, except for one that has fallen over.": [
+        "advanced",
+        "counting",
+        "universal"
+    ],
+    "In a collection of hats, each one is plain, but one is adorned with feathers.": [
+        "advanced",
+        "counting",
+        "universal"
+    ],
+    "Every lamp in the street is lit, except for one that remains dark.": [
+        "advanced",
+        "counting",
+        "universal"
+    ],
+    "In a pack of wolves, each one howls at the moon, but one remains silent.": [
+        "advanced",
+        "counting",
+        "universal"
+    ],
+    "All the doors in the hallway are closed, except for one that is slightly ajar.": [
+        "advanced",
+        "counting",
+        "universal"
+    ],
+    "A tree with no leaves, only shadows beneath.": [
+        "advanced",
+        "negation"
+    ],
+    "A sky with stars, but no moon in sight.": [
+        "advanced",
+        "negation"
+    ],
+    "A street with no people, only lights.": [
+        "advanced",
+        "negation"
+    ],
+    "A birdcage with no door, yet no bird inside.": [
+        "advanced",
+        "negation"
+    ],
+    "A shoe with no laces, standing alone.": [
+        "advanced",
+        "negation"
+    ],
+    "A garden with no paths, only wildflowers.": [
+        "advanced",
+        "negation"
+    ],
+    "A kitchen with no stove, only empty counters.": [
+        "advanced",
+        "negation"
+    ],
+    "A boat with no sails, adrift on calm waters.": [
+        "advanced",
+        "negation"
+    ],
+    "A painting with no colors, only shades of gray.": [
+        "advanced",
+        "negation"
+    ],
+    "A bridge with no end, vanishing into the fog.": [
+        "advanced",
+        "negation"
+    ],
+    "A glass with no water, only ice melting.": [
+        "advanced",
+        "negation"
+    ],
+    "A bed with no pillows, only a folded blanket.": [
+        "advanced",
+        "negation"
+    ],
+    "A bike with no pedals.": [
+        "advanced",
+        "negation"
+    ],
+    "A ball with no bounce, lying still.": [
+        "advanced",
+        "negation"
+    ],
+    "A coat with no buttons, hanging loosely.": [
+        "advanced",
+        "negation"
+    ],
+    "Two children sitting on the bed, the one on the left making faces, the one on the right not making faces.": [
+        "advanced",
+        "counting",
+        "differentiation",
+        "negation"
+    ],
+    "A library with no books on the shelves.": [
+        "advanced",
+        "negation"
+    ],
+    "A beach without any footprints in the sand.": [
+        "advanced",
+        "negation"
+    ],
+    "A forest where no animals can be seen.": [
+        "advanced",
+        "negation"
+    ],
+    "A sky without a single cloud.": [
+        "advanced",
+        "negation"
+    ],
+    "A garden with no flowers blooming.": [
+        "advanced",
+        "negation"
+    ],
+    "A classroom with every chair empty.": [
+        "advanced",
+        "universal"
+    ],
+    "A clock with no hands to tell the time.": [
+        "advanced",
+        "negation"
+    ],
+    "A playground with no children playing.": [
+        "advanced",
+        "negation"
+    ],
+    "A road with no signs or markings.": [
+        "advanced",
+        "negation"
+    ],
+    "A river with no fish swimming.": [
+        "advanced",
+        "negation"
+    ],
+    "A mountain with no snow on its peak.": [
+        "advanced",
+        "negation"
+    ],
+    "A field without a single blade of grass.": [
+        "advanced",
+        "negation"
+    ],
+    "A garden full of flowers, yet not a single rose can be found.": [
+        "advanced",
+        "negation"
+    ],
+    "Two trees standing tall; one is leafy, and the other is not.": [
+        "advanced",
+        "counting",
+        "negation"
+    ],
+    "A bustling city street with cars, but no bicycles.": [
+        "advanced",
+        "negation"
+    ],
+    "A bookshelf filled with books, but not a single magazine.": [
+        "advanced",
+        "negation"
+    ],
+    "A kitchen with every appliance except a microwave.": [
+        "advanced",
+        "negation"
+    ],
+    "A classroom full of students, but no teacher in sight.": [
+        "advanced",
+        "negation"
+    ],
+    "A snowy landscape with a cabin, but no smoke from the chimney.": [
+        "advanced",
+        "negation"
+    ],
+    "A pair of shoes, one tied and the other not.": [
+        "advanced",
+        "counting",
+        "negation"
+    ],
+    "A table set for dinner with plates, but no forks.": [
+        "advanced",
+        "negation"
+    ],
+    "A playground with swings, but no slide.": [
+        "advanced",
+        "negation"
+    ],
+    "A road with cars, but no traffic lights.": [
+        "advanced",
+        "negation"
+    ],
+    "Five pencils on the desk, but no erasers.": [
+        "advanced",
+        "negation"
+    ],
+    "Two birds in the sky; the one on the left is flying, but the one on the right is not.": [
+        "advanced",
+        "counting",
+        "differentiation",
+        "negation"
+    ],
+    "A person with glasses reading a book, while another without glasses is not.": [
+        "advanced",
+        "differentiation",
+        "negation"
+    ],
+    "Two car in the street, the car on the left is red, but the one on the right is not.": [
+        "advanced",
+        "counting",
+        "differentiation",
+        "negation"
+    ],
+    "A musician with a guitar, but no audience to listen.": [
+        "advanced",
+        "negation"
+    ],
+    "Two windows in a room; one is open, but the other is not.": [
+        "advanced",
+        "counting",
+        "negation"
+    ],
+    "A basket full of apples, but no oranges.": [
+        "advanced",
+        "negation"
+    ],
+    "A row of houses with chimneys, but no smoke coming out.": [
+        "advanced",
+        "negation"
+    ],
+    "Two dogs playing; one is barking, but the other is not.": [
+        "advanced",
+        "counting",
+        "negation"
+    ],
+    "A pair of socks, one is striped, but the other is not.": [
+        "advanced",
+        "negation"
+    ],
+    "A snowy hill with children sledding, but no snowman in sight.": [
+        "advanced",
+        "negation"
+    ],
+    "Two cups on the table; one is full, but the other is not.": [
+        "advanced",
+        "counting",
+        "negation"
+    ],
+    "A bridge over a river, but no cars crossing.": [
+        "advanced",
+        "negation"
+    ],
+    "A zoo with no animals in the enclosures.": [
+        "advanced",
+        "negation"
+    ],
+    "A kitchen with every cupboard bare.": [
+        "advanced",
+        "negation"
+    ],
+    "A mirror with no reflection.": [
+        "advanced",
+        "negation"
+    ],
+    "A calendar with no dates marked.": [
+        "advanced",
+        "negation"
+    ],
+    "A bridge with no one crossing.": [
+        "advanced",
+        "negation"
+    ],
+    "A hotel with no guests checking in.": [
+        "advanced",
+        "negation"
+    ],
+    "A fountain with no water flowing.": [
+        "advanced",
+        "negation"
+    ],
+    "A beach scene where the sandcastle appears taller than the nearby cooler.": [
+        "advanced",
+        "comparison"
+    ],
+    "A bustling street with more bicycles than cars parked along the sidewalk.": [
+        "advanced",
+        "comparison"
+    ],
+    "A starry night sky with more visible stars than the number of lights in the city below.": [
+        "advanced",
+        "comparison"
+    ],
+    "In a crowded room, there are more people standing than sitting.": [
+        "advanced",
+        "comparison",
+        "differentiation"
+    ],
+    "A fruit basket with more apples than oranges.": [
+        "advanced",
+        "comparison"
+    ],
+    "A snowy landscape with deeper snow than the height of the nearby fence.": [
+        "advanced",
+        "comparison"
+    ],
+    "A classroom with more chairs than students.": [
+        "advanced",
+        "comparison"
+    ],
+    "A painting where the mountain is depicted as taller than the trees in the foreground.": [
+        "advanced",
+        "comparison"
+    ],
+    "A library with more shelves filled with books than empty ones.": [
+        "advanced",
+        "comparison",
+        "differentiation"
+    ],
+    "A kitchen pantry with more types of pasta than sauces.": [
+        "advanced",
+        "comparison"
+    ],
+    "A bakery display with more chocolate pastries than fruit-filled ones.": [
+        "advanced",
+        "comparison"
+    ],
+    "An office with more desks than computers.": [
+        "advanced",
+        "comparison"
+    ],
+    "A vintage car show with more convertibles than sedans.": [
+        "advanced",
+        "comparison"
+    ],
+    "Two dogs playing with one red ball.": [
+        "advanced",
+        "counting"
+    ],
+    "Three apples next to four oranges on a table.": [
+        "advanced",
+        "counting"
+    ],
+    "One cat sleeping under five bright stars": [
+        "advanced",
+        "counting"
+    ],
+    "Six birds soar above two towering trees.": [
+        "advanced",
+        "counting"
+    ],
+    "Four children jumping rope in the park": [
+        "advanced",
+        "counting"
+    ],
+    "Two bicycles leaning against a wall with three windows.": [
+        "advanced",
+        "counting"
+    ],
+    "Four cupcakes with sprinkles on a plate with two forks.": [
+        "advanced",
+        "counting"
+    ],
+    "Three kites soaring in the sky above two hills.": [
+        "advanced",
+        "counting"
+    ],
+    "One lantern glowing softly next to five pebbles.": [
+        "advanced",
+        "counting"
+    ],
+    "Six pencils lined up next to one sharpener.": [
+        "advanced",
+        "counting"
+    ],
+    "Two sparrows perched on a branch with three leaves.": [
+        "advanced",
+        "counting"
+    ],
+    "Five buttons sewn onto a piece of fabric with two needles.": [
+        "advanced",
+        "counting"
+    ],
+    "Three snowmen standing in a garden with two pine trees.": [
+        "advanced",
+        "counting"
+    ],
+    "Two clouds casting shadows over three sunflowers.": [
+        "advanced",
+        "counting"
+    ],
+    "Two apples on a kitchen counter.": [
+        "advanced",
+        "counting"
+    ],
+    "Three birds sitting on a wire.": [
+        "advanced",
+        "counting"
+    ],
+    "Four pencils in a cup.": [
+        "advanced",
+        "counting"
+    ],
+    "Five stars in the night sky.": [
+        "advanced",
+        "counting"
+    ],
+    "One cat napping in the sun.": [
+        "advanced",
+        "counting"
+    ],
+    "Two shoes by the front door.": [
+        "advanced",
+        "counting"
+    ],
+    "Three cookies on a plate.": [
+        "advanced",
+        "counting"
+    ],
+    "Four leaves on a branch.": [
+        "advanced",
+        "counting"
+    ],
+    "Five stones by the river.": [
+        "advanced",
+        "counting"
+    ]
+}

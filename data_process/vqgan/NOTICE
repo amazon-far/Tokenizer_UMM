@@ -1,0 +1,16 @@
+Chameleon is licensed under the Chameleon Research License, Copyright (c) Meta Platforms, Inc. All Rights Reserved.
+
+The code in this directory is the Chameleon VQGAN image tokenizer, adapted from
+https://github.com/facebookresearch/chameleon (which in turn derives from
+https://github.com/CompVis/taming-transformers). It is governed by the Chameleon
+Research License in the LICENSE file alongside this NOTICE -- not by the Apache
+License 2.0 that covers the rest of this repository.
+
+Use is limited to Noncommercial Research Uses (Chameleon Research License, sections 2
+and 3) and must comply with the Chameleon Acceptable Use Policy, which the license
+incorporates by reference:
+
+    https://ai.meta.com/resources/models-and-libraries/chameleon-use-policy/
+
+No Chameleon model weights are distributed here; download them from the upstream
+project.

@@ -1,0 +1,40 @@
+# Local path configuration (contains real machine paths)
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Editors / OS
+.vscode/
+.DS_Store
+
+# Experiment tracking & logs
+wandb/
+*.log
+*.out
+
+# Model weights & large binaries
+*.ckpt
+*.pth
+*.pt
+*.jit
+*.safetensors
+*.zip
+*.tar
+*.tar.gz
+*.rar
+
+# Local caches / data / outputs
+hf_cache/
+data/results/
+data/json_results/
+data/images/
+data/tokenizer/
+
+# Generated plots / figures (analysis outputs)
+evaluation/*.png
+evaluation/*.pdf
+evaluation/*.svg
