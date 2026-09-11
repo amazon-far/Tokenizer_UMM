@@ -29,7 +29,7 @@ dependencies = [
 ]
 
 [project.optional-dependencies]
-train = ["deepspeed==0.13.1", "ninja" ]
+train = ["deepspeed==0.15.1", "ninja" ]
 build = ["build", "twine"]
 
 # No importable package is installed: the training / evaluation / data-processing
