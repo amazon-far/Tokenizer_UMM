@@ -21,7 +21,7 @@ classifiers = [
 # (>=0.21,<0.22 for 4.51.x), and pinning it here only creates a conflict.
 dependencies = [
     "torch==2.1.0", "torchvision==0.16.0",
-    "transformers>=4.51.0", "sentencepiece==0.1.99", "shortuuid",
+    "transformers>=4.51.0", "sentencepiece==0.2.1", "shortuuid",
     "accelerate==0.27.2", "peft==0.4.0", "bitsandbytes==0.41.0",
     "pydantic<2,>=1", "markdown2[all]", "numpy==1.26.4", "scikit-learn==1.2.2",
     "requests", "httpx==0.24.0", "uvicorn", "fastapi",
