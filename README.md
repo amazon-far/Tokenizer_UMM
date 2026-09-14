@@ -244,13 +244,10 @@ Each of those directories carries its own `LICENSE` and `NOTICE`.
 Paper: [arXiv:2609.09143](https://arxiv.org/abs/2609.09143)
 
 ```bibtex
-@misc{tokenizer-umm,
-  title         = {Studying Image Tokenizers as Visual Languages in Unified Multimodal Models},
-  author        = {Siting Li and Zhengyang Wang and Simon Shaolei Du and Xi Chen and Yang Liu},
-  year          = {2026},
-  eprint        = {2609.09143},
-  archivePrefix = {arXiv},
-  primaryClass  = {cs.CV},
-  url           = {https://arxiv.org/abs/2609.09143}
+@article{li2026studying,
+  title={Studying Image Tokenizers as Visual Languages in Unified Multimodal Models},
+  author={Li, Siting and Wang, Zhengyang and Du, Simon Shaolei and Chen, Xi and Liu, Yang},
+  journal={arXiv preprint arXiv:2609.09143},
+  year={2026}
 }
 ```
